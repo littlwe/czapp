@@ -16,8 +16,8 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>com.zxy.rltt</string>
+				<key>bundle-identifier</kety>
+				<string>com.test.rltt</string>
 				<key>bundle-version</key>
 				<string>1.0.11</string>
 				<key>kind</key>
