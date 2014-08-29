@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.test.zxq</string>
 				<key>bundle-version</key>
-				<string>2</string>
+				<string>3.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>智享泉</string>
+				<string>能率</string>
 			</dict>
 		</dict>
 	</array>
