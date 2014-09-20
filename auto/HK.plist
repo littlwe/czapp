@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.test.HK</string>
 				<key>bundle-version</key>
-				<string>4.0</string>
+				<string>4.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>香港大学</string>
+				<string>高一七班</string>
 			</dict>
 		</dict>
 	</array>
