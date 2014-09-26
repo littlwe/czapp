@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.test.tst</string>
 				<key>bundle-version</key>
-				<string>4.4</string>
+				<string>4.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>三生展厅版</string>
+				<string>三生智能互动展会系统</string>
 			</dict>
 		</dict>
 	</array>
