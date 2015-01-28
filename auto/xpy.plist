@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://42.96.176.84/autopub/24/app0.ipa</string>
+					<string>http://42.96.176.84/autopub/24/app.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.test.xpy</string>
 				<key>bundle-version</key>
-				<string>4.7</string>
+				<string>4.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
