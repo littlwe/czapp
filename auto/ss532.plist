@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.zhixueyuan.net/autopub/25/app14.ipa</string>
+					<string>http://app.zhixueyuan.net/autopub/25/app15.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.test.ss532</string>
 				<key>bundle-version</key>
-				<string>6.6</string>
+				<string>6.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>随身智能展厅</string>
+				<string>532系统</string>
 			</dict>
 		</dict>
 	</array>
