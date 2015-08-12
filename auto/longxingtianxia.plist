@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.zhixueyuan.net/autopub/47/app.ipa</string>
+					<string>http://app.zhixueyuan.net/autopub/47/app0.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.test.longxingtianxia</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>随身智能展厅</string>
+				<string>龙行天下</string>
 			</dict>
 		</dict>
 	</array>
